@@ -1,0 +1,27 @@
+/* Global */
+
+body {
+    font-family: sans-serif;
+    max-width: 300px;
+}
+
+/* Header */
+
+.song-title {
+    text-align: center;
+}
+
+h1 {
+    letter-spacing: 1px;
+    }
+
+h2 {
+    font-style: italic;
+    }
+
+/* Text */
+
+p {
+    line-height: 2rem;
+    margin-left: 15px;
+}
